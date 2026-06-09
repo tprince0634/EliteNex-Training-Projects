@@ -1,5 +1,8 @@
 class Employee{
 	public static void main(String [] args){
-		System.out.println("Hello");
+		
+		
+		Employee(){
+			System.out.println("Welcome to The Employee Management System");	
 	}
 }
